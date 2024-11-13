@@ -1,0 +1,5 @@
+{
+  "usernameField": "//input[@name='username']",
+  "passwordField": "//input[@type='password']",
+  "loginButton": "//div[@id='gridMasterContent']//button[@type='button']"
+}

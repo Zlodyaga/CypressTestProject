@@ -1,0 +1,5 @@
+{
+  "headMenu": "//cui-menu[@container='headMenu']",
+  "buttonLogout": "//a[@aria-label='Logout']",
+  "buttonLogoutOK": "//button[@class='dialog-button-ok ui-button ui-corner-all ui-widget']"
+}

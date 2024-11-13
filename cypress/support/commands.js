@@ -23,3 +23,11 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add('formatNumberToPointNumber', (text) => {
+    return text.replace(',', '.').replace('$', '');
+});
+
+Cypress.Commands.add('formatNumberToDotNumber', (text) => {
+    return text.replace('.', ',').replace('$', '');
+});

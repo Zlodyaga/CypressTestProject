@@ -1,0 +1,3 @@
+{
+  "transferMoneyButton": "//div[@data-container-id='quickactions']//a[@aria-label='Transfer Money']"
+}

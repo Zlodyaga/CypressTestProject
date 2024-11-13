@@ -1,0 +1,6 @@
+{
+  "lastTransfer": "(//table[@class='xwidget_grid_table display']/tbody/tr[not(contains(@class, 'xwidget_grid_details_row'))])[3]",
+  "transferAmount": "//td[@data-column-id='amount']/span",
+  "transferNotes": "//td[@data-column-id='notes']",
+  "transferDate": "//td[@data-column-id='effectivedate']/span"
+}

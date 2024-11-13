@@ -1,0 +1,10 @@
+{
+  "toAccountList": "//div[@data-field-id='toAccountRootId']//div[@class='xwidget_field_container']",
+  "toAccountSelect": "//div[@data-field-id='toAccountRootId']//div[@class='xwidget_field_container']//span[@class='account_listitem']",
+  "fieldDate": "//div[@data-field-id='start']//input[@type='text']",
+  "fieldNote": "//div[@data-field-id='notes']//input[@type='text']",
+  "fieldAmount": "//div[@data-field-id='amount']//input[@type='text']",
+  "continueButton": "//div[@data-container-id='Buttons']/div[@data-field-id='continueButton']//button[@type='button']",
+  "doneButton": "//div[@id='transfer-doneButton']//button[@type='button']",
+  "transferHistoryGo": "//a[@aria-label='Transfer History']/.."
+}
